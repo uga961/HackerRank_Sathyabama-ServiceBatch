@@ -15,8 +15,6 @@ This repo is dedicated to tracking and sharing my daily solved problems from [Ha
 
 ---
 
-
-
 1. Browse through the dated folders to view individual solutions.
 
 2. Feel free to fork and practice the problems yourself.
@@ -35,7 +33,6 @@ Follow my journey on [HackerRank](https://www.hackerrank.com/42130516_ECE) and c
 * Solutions are written to be clean, readable, and beginner-friendly.
 
 ---
-
 
 
 Let me know if you want to add:
