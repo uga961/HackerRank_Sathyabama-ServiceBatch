@@ -15,11 +15,11 @@ This repo is dedicated to tracking and sharing my daily solved problems from [Ha
 
 ---
 
-````
 
-2. Browse through the dated folders to view individual solutions.
 
-3. Feel free to fork and practice the problems yourself.
+1. Browse through the dated folders to view individual solutions.
+
+2. Feel free to fork and practice the problems yourself.
 
 ---
 
@@ -36,7 +36,7 @@ Follow my journey on [HackerRank](https://www.hackerrank.com/42130516_ECE) and c
 
 ---
 
-```
+
 
 Let me know if you want to add:
 - badges (HackerRank, GitHub stats)
@@ -44,4 +44,4 @@ Let me know if you want to add:
 - license or contribution guidelines
 
 I'll update accordingly.
-```
+
