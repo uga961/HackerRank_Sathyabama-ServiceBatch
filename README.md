@@ -32,13 +32,4 @@ Follow my journey on [HackerRank](https://www.hackerrank.com/42130516_ECE) and c
 * All problems are solved in alignment with daily learning goals under the **Service Batch**.
 * Solutions are written to be clean, readable, and beginner-friendly.
 
----
-
-
-Let me know if you want to add:
-- badges (HackerRank, GitHub stats)
-- a table of recent problems with links
-- license or contribution guidelines
-
-I'll update accordingly.
 
